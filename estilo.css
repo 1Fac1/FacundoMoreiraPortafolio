@@ -1,0 +1,16 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container-fluid {
+  padding: 2px;
+}
+
+span {
+  font-weight: bold;
+}
+
+.titulo {
+  text-align: center;
+  background-color: rgb(165, 170, 170);
+}/*# sourceMappingURL=estilo.css.map */
